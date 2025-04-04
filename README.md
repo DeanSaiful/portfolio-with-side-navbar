@@ -35,25 +35,4 @@ Install the necessary dependencies using npm or yarn:
 npm install
 ````
 
-This will open the application at http://localhost:3000 in your browser.
-
-
-Project structure:
-
-my-portfolio/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── About.js
-│   │   ├── Contact.js
-│   │   ├── Home.js
-│   │   └── Projects.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── tailwind.config.js
-├── package.json
-├── README.md
-└── ...
+- This will open the application at http://localhost:3000 in your browser.
